@@ -105,10 +105,6 @@ header {
     height: 300px;
 }
 
-main {
-    /* width: 1582px; */
-}
-
 .main-content {
     max-width: 1240px;
     margin: 0 auto;
@@ -211,7 +207,6 @@ main {
     font-style: normal;
     font-weight: bold;
     font-size: 42px;
-    /* line-height: 0px; */
 }
 
 .feature-product p {
@@ -280,7 +275,6 @@ main {
     font-style: normal;
     font-weight: bold;
     font-size: 42px;
-    /* line-height: 0px; */
 }
 
 .meet-our-team p {
@@ -391,7 +385,6 @@ main {
     font-family: 'OpenSans Bold';
     font-style: normal;
     font-size: 42px;
-    line-height: 24px;
 }
 
 .tricks p {
@@ -461,7 +454,6 @@ main {
     font-family: 'OpenSans Bold';
     font-style: normal;
     font-size: 42px;
-    /* line-height: 0px; */
     text-transform: uppercase;
     letter-spacing: 0.38px;
     margin-top: 104px;
@@ -681,14 +673,6 @@ footer {
         color: #2C2C2C;
     }
 }
-
-/* <!-- практическая задача --> 
-.form-search {
-    max-width: 1240px;
-     min-height: 113px; 
-    margin: 100px auto;
-}
- */
 
 .tricks-form input {
     width: 524px;
